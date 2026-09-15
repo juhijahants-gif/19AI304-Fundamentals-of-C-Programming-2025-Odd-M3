@@ -1,7 +1,7 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M3
 # IAPR-3- Module 3 - FoC
 ## 5. Implementation of one-dimensional array and multidimensional array.
-## 6. Implementation of string manipulation.
+## 6. Implementation of string manipulation. 
 # Ex.No:11
   Formulate a C program to convert a given decimal number into its binary equivalent and display it.
 # Date : 23.07.26
